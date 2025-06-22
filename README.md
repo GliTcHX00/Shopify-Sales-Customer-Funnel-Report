@@ -61,6 +61,105 @@ The solution is divided into two parts:
 - **Retention Strategy**: Priority Follow-up for high-spending dormant users
 
 ---
+---
+
+## 🧾 Importance of SQL Queries
+
+The SQL logic in this project is carefully structured to deliver actionable business insights across key operational areas. Here's a breakdown of the query groups and their strategic significance:
+
+---
+
+### 🔹 1. Revenue Analytics
+
+**What it does**:
+- Tracks monthly revenue trends and average order value.
+- Calculates revenue growth over time.
+- Evaluates per-customer and per-order profitability.
+
+**Why it matters**:
+> Enables performance benchmarking, seasonal planning, and financial forecasting.
+
+---
+
+### 🔹 2. Customer Behavior Analytics
+
+**What it does**:
+- Measures Customer Lifetime Value (CLV).
+- Segments customers into One-time, Regular, and VIP.
+- Performs cohort analysis to evaluate retention over time.
+
+**Why it matters**:
+> Supports retention strategies, loyalty programs, and audience targeting.
+
+---
+
+### 🔹 3. Product Performance Analytics
+
+**What it does**:
+- Ranks best-selling and highest-revenue products.
+- Evaluates category performance by volume and value.
+- Analyzes product-level sales efficiency.
+
+**Why it matters**:
+> Helps optimize inventory, prioritize product marketing, and identify underperformers.
+
+---
+
+### 🔹 4. Geographical Analytics
+
+**What it does**:
+- Breaks down sales performance by country, province, and city.
+- Classifies markets as High, Medium, or Emerging value.
+
+**Why it matters**:
+> Guides regional sales strategies, logistics planning, and expansion decisions.
+
+---
+
+### 🔹 5. Payment Gateway Analytics
+
+**What it does**:
+- Tracks performance of each payment gateway.
+- Measures transaction volume and share contribution.
+
+**Why it matters**:
+> Assists in optimizing checkout experience and evaluating payment partner effectiveness.
+
+---
+
+### 🔹 6. Business Intelligence Metrics
+
+**What it does**:
+- Computes RFM scores (Recency, Frequency, Monetary).
+- Segments users for CRM and retention campaigns.
+- Analyzes seasonal trends in sales and order frequency.
+
+**Why it matters**:
+> Supports strategic planning, personalized offers, and marketing automation.
+
+---
+
+### 🔹 7. Performance KPIs & Dashboards
+
+**What it does**:
+- Provides daily and executive-level summaries.
+- Tracks KPIs like revenue, tax, item count, and order/customer ratios.
+
+**Why it matters**:
+> Ideal for real-time monitoring, management reporting, and operational efficiency.
+
+---
+
+### 🔹 8. Predictive Churn & Risk Analysis
+
+**What it does**:
+- Identifies inactive or at-risk customers.
+- Suggests retention strategies based on spend and inactivity.
+
+**Why it matters**:
+> Helps reduce churn, prioritize high-value customer reactivation, and improve CLV.
+
+---
 
 ## 🛠️ Technologies Used
 
