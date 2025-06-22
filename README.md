@@ -169,6 +169,3 @@ The SQL logic in this project is carefully structured to deliver actionable busi
 | Power BI         | Interactive dashboard creation                |
 | Excel/CSV        | Data export and import for visualization      |
 | GitHub           | Version control and collaboration             |
-
-Dashboard
-
